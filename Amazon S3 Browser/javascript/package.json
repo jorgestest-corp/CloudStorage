@@ -8,7 +8,7 @@
   "main": "amazons3.js",
   "dependencies": {
     "full-icu": "*",
-    "cloudstorage": "^22.0.8649"
+    "cloudstorage": "^22.0.8656"
   },
   "scripts": {
     "amazons3": "node amazons3.js"

@@ -1,5 +1,10 @@
 # CloudStorage Sample Projects
-The provided sample projects offer a concise yet effective demonstration of the IPWorks components, showcasing their usage in a straightforward manner. While they are not intended to be complete applications, they serve as valuable illustrations of key features. To enhance clarity, error handling and checks are simplified, allowing users to focus on the core functionality. These projects provide a solid foundation for developers to explore and customize, enabling them to construct more elaborate applications while understanding the fundamental concepts and mechanisms at play.
+The provided sample projects offer a concise yet effective demonstration of the components from Cloud Storage, showcasing their usage in a straightforward manner. While they are not intended to be complete applications, they serve as valuable illustrations of key features. To enhance clarity, error handling and checks are simplified, allowing users to focus on the core functionality. These projects provide a solid foundation for developers to explore and customize, enabling them to construct more elaborate applications while understanding the fundamental concepts and mechanisms at play.
+
+## Requirements
+Cloud Storage 2022 libraries for the corresponding edition are required to run these samples.  Free download from: [https://www.nsoftware.com/cloudstorage](https://www.nsoftware.com/cloudstorage)
+
+View the technical [reference/documentation](https://www.nsoftware.com/kb/help?pid=ES).
 
 | Sample Project | Description |
 | --- | --- |
@@ -13,9 +18,6 @@ The provided sample projects offer a concise yet effective demonstration of the 
 | [OneDrive Browser](./OneDrive%20Browser) | Uses the OneDrive component to manage the documents in Microsoft OneDrive. |
 | [ShareFile](./ShareFile) | Uses the ShareFile component to manage and share files and folders. |
 | [Wasabi Browser](./Wasabi%20Browser) | Uses the Wasabi component to browse and modify your Wasabi Buckets and their Objects. |
-
-## Requirements
-Cloud Storage 2022 libraries for the corresponding edition are required to run these samples.  Free download from: [https://www.nsoftware.com/cloudstorage](https://www.nsoftware.com/cloudstorage)
 
 ## Support
 If you have questions or need help, please contact support@nsoftware.com or explore other support options 

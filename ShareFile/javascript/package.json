@@ -8,7 +8,7 @@
   "main": "sharefile.js",
   "dependencies": {
     "full-icu": "*",
-    "cloudstorage": "^22.0.8649"
+    "cloudstorage": "^22.0.8656"
   },
   "scripts": {
     "sharefile": "node sharefile.js"
