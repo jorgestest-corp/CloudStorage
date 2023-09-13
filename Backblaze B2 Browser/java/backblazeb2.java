@@ -5,7 +5,7 @@
  * simple, straightforward way. This is not intended to be a complete 
  * application. Error handling and other checks are simplified for clarity.
  *
- * Copyright (c) 2023 /n software inc. www.nsoftware.com
+ * Copyright (c) 2023 /n software inc. https://www.nsoftware.com
  */
 
 import java.io.*;
