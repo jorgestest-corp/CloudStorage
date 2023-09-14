@@ -8,16 +8,16 @@ View the technical [reference/documentation](https://www.nsoftware.com/cloudstor
 
 | Sample Project | Description |
 | --- | --- |
-| [Amazon S3 Browser](./Amazon%20S3%20Browser) | Uses the Amazons3 component to browse and modify your S3 Buckets and their Objects. |
-| [AzureBlob](./AzureBlob) | Demonstrates how to use the AzureBlob component to browse and modify your Azure Blob Storage containers and their blobs. |
-| [Backblaze B2 Browser](./Backblaze%20B2%20Browser) | Uses the BackblazeB2 component to browse and modify your B2 Buckets and their Files. |
-| [Box Browser](./Box%20Browser) | Uses the Box component to manage the documents in Box. |
-| [CloudFiles](./CloudFiles) | Uses the CloudFiles component to manage files stored in the cloud. |
-| [DropBox Browser](./DropBox%20Browser) | Uses the Dropbox component to manage the documents in Dropbox. |
-| [Google Drive Browser](./Google%20Drive%20Browser) | Uses the GoogleDrive component to manage the documents in Google Drive. |
-| [OneDrive Browser](./OneDrive%20Browser) | Uses the OneDrive component to manage the documents in Microsoft OneDrive. |
-| [ShareFile](./ShareFile) | Uses the ShareFile component to manage and share files and folders. |
-| [Wasabi Browser](./Wasabi%20Browser) | Uses the Wasabi component to browse and modify your Wasabi Buckets and their Objects. |
+| [Amazon S3 Browser](./Cloud Storage Samples/Amazon%20S3%20Browser) | Uses the Amazons3 component to browse and modify your S3 Buckets and their Objects. |
+| [AzureBlob](./Cloud Storage Samples/AzureBlob) | Demonstrates how to use the AzureBlob component to browse and modify your Azure Blob Storage containers and their blobs. |
+| [Backblaze B2 Browser](./Cloud Storage Samples/Backblaze%20B2%20Browser) | Uses the BackblazeB2 component to browse and modify your B2 Buckets and their Files. |
+| [Box Browser](./Cloud Storage Samples/Box%20Browser) | Uses the Box component to manage the documents in Box. |
+| [CloudFiles](./Cloud Storage Samples/CloudFiles) | Uses the CloudFiles component to manage files stored in the cloud. |
+| [DropBox Browser](./Cloud Storage Samples/DropBox%20Browser) | Uses the Dropbox component to manage the documents in Dropbox. |
+| [Google Drive Browser](./Cloud Storage Samples/Google%20Drive%20Browser) | Uses the GoogleDrive component to manage the documents in Google Drive. |
+| [OneDrive Browser](./Cloud Storage Samples/OneDrive%20Browser) | Uses the OneDrive component to manage the documents in Microsoft OneDrive. |
+| [ShareFile](./Cloud Storage Samples/ShareFile) | Uses the ShareFile component to manage and share files and folders. |
+| [Wasabi Browser](./Cloud Storage Samples/Wasabi%20Browser) | Uses the Wasabi component to browse and modify your Wasabi Buckets and their Objects. |
 
 ## Support
 If you have questions or need help, please contact support@nsoftware.com or explore other support options 
