@@ -1,11 +1,20 @@
 # CloudStorage Sample Projects
-The provided sample projects offer a concise yet effective demonstration of the components from Cloud Storage, showcasing their usage in a straightforward manner. While they are not intended to be complete applications, they serve as valuable illustrations of key features. To enhance clarity, error handling and checks are simplified, allowing users to focus on the core functionality. These projects provide a solid foundation for developers to explore and customize, enabling them to construct more elaborate applications while understanding the fundamental concepts and mechanisms at play.
+The provided sample projects offer a concise yet effective demonstration of the components from Cloud Storage, showcasing their usage in a straightforward manner. While they are not intended to be complete applications, they serve as valuable illustrations of key features. To enhance clarity, error handling and checks are simplified, allowing users to focus on the core functionality.
 
 ## Requirements
 Cloud Storage 2022 libraries for the corresponding edition are required to run these samples.  Free download from: [https://www.nsoftware.com/cloudstorage](https://www.nsoftware.com/cloudstorage)
 
-View the technical [reference/documentation](https://www.nsoftware.com/cloudstorage/help).
+## Reference Documentation
+[Java](https://cdn.nsoftware.com/help/ESH/java/)
+[Javascript](https://cdn.nsoftware.com/help/ESH/js/)
+[.NET](https://cdn.nsoftware.com/help/ESH/cs/)
+[Python](https://cdn.nsoftware.com/help/ESH/py/)
+[PHP](https://cdn.nsoftware.com/help/ESH/php/)
+[C++](https://cdn.nsoftware.com/help/ESH/cpp/)
+[macOS](https://cdn.nsoftware.com/help/ESH/mac/)
+[iOS](https://cdn.nsoftware.com/help/ESH/mac/)
 
+## Sample Projects
 | Sample Project | Description |
 | --- | --- |
 | [Amazon S3 Browser](./Cloud%20Storage%20Samples/Amazon%20S3%20Browser) | Uses the Amazons3 component to browse and modify your S3 Buckets and their Objects. |
