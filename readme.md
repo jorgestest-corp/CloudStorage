@@ -5,14 +5,14 @@ The provided sample projects offer a concise yet effective demonstration of the 
 Cloud Storage 2022 libraries for the corresponding edition are required to run these samples.  Free download from: [https://www.nsoftware.com/cloudstorage](https://www.nsoftware.com/cloudstorage)
 
 ## Reference Documentation
-[Java](https://cdn.nsoftware.com/help/ESH/java/)
-[Javascript](https://cdn.nsoftware.com/help/ESH/js/)
-[.NET](https://cdn.nsoftware.com/help/ESH/cs/)
-[Python](https://cdn.nsoftware.com/help/ESH/py/)
-[PHP](https://cdn.nsoftware.com/help/ESH/php/)
-[C++](https://cdn.nsoftware.com/help/ESH/cpp/)
-[macOS](https://cdn.nsoftware.com/help/ESH/mac/)
-[iOS](https://cdn.nsoftware.com/help/ESH/mac/)
+[Java](https://cdn.nsoftware.com/help/ESH/java/)  
+[Javascript](https://cdn.nsoftware.com/help/ESH/js/)  
+[.NET](https://cdn.nsoftware.com/help/ESH/cs/)  
+[Python](https://cdn.nsoftware.com/help/ESH/py/)  
+[PHP](https://cdn.nsoftware.com/help/ESH/php/)  
+[C++](https://cdn.nsoftware.com/help/ESH/cpp/)  
+[macOS](https://cdn.nsoftware.com/help/ESH/mac/)  
+[iOS](https://cdn.nsoftware.com/help/ESH/mac/)  
 
 ## Sample Projects
 | Sample Project | Description |
