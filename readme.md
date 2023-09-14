@@ -4,7 +4,7 @@ The provided sample projects offer a concise yet effective demonstration of the 
 ## Requirements
 Cloud Storage 2022 libraries for the corresponding edition are required to run these samples.  Free download from: [https://www.nsoftware.com/cloudstorage](https://www.nsoftware.com/cloudstorage)
 
-View the technical [reference/documentation](https://www.nsoftware.com/kb/help?pid=ES).
+View the technical [reference/documentation](https://www.nsoftware.com/cloudstorage/help).
 
 | Sample Project | Description |
 | --- | --- |
